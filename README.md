@@ -28,7 +28,7 @@
    > I would like to follow the best practice of commit instead of commiting all files at one go
    
 
-Sadly, I am not able to show front end portfolios here. But, I am more confident with JavaScript and other frontend languages such as CSS, AJAX. I have just created a new git hub to put my betters projects in for portfolio. 
+Sadly, I am not able to show front end portfolios here. But, I am more confident with JavaScript, its frameworks Angular and learning React, and other frontend languages such as CSS, AJAX. I have just created a new git hub to put my betters projects in for portfolio. 
    
 
 
